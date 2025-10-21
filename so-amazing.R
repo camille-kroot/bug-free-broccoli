@@ -5,6 +5,8 @@
 x <- 5
 y <- x^2
 
+test<-7
+
 # git lets you take snapshots of what you are doing. Capture the moment
 # there are two steps: staging and committing
 # staging: click staged and take a photo of this one document (can stage multiple things at once)
